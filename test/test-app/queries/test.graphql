@@ -1,7 +1,0 @@
-query ExampleQuery {
-  countries {
-    code
-    name
-    emoji
-  }
-}
